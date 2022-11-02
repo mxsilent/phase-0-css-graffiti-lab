@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall .tag-1{
+    display: none;
+}
+
+#wall .tag-6{
+    margin: auto;
+    padding: 0%;
+    justify-content: center;
+}
+
+#wall {
+    height: 50vh;
+    width: 50vh;
+}
+
+#wall #tag-2 {
+    background: url(../images/tag-2.png) no-repeat;
+    z-index: 46;
+    display: block;
+    background-color: #101010;
+  }
